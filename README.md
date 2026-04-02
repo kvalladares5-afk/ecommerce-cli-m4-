@@ -3,7 +3,7 @@
 ## 📌 Propósito del Proyecto
 Versión final y operativa del sistema E-commerce desarrollado como producto de portafolio para el Módulo 7. Integra gestión de usuarios, roles de seguridad, catálogo dinámico y un carrito de compras funcional.
 
-* **Enlace al repositorio público en GitHub:** `[AQUÍ_PEGA_TU_LINK_DE_GITHUB]`
+* **Enlace al repositorio público en GitHub:** `https://github.com/kvalladares5-afk/ecommerce-cli-m4-`
 
 ## 🚀 Arquitectura y Mejoras UI/UX
 Aunque el estándar base sugería Bootstrap, este proyecto fue optimizado construyendo una interfaz completamente responsiva mediante **CSS Puro y Variables Nativas (`:root`)**. Esto reduce drásticamente la carga del DOM, elimina dependencias externas pesadas y demuestra un control avanzado sobre el diseño frontend y la eficiencia del renderizado.
