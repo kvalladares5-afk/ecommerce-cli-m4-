@@ -1,0 +1,13 @@
+com\ejemplo\modelo\Producto.class
+com\ejemplo\repositorio\UsuarioRepository.class
+com\ejemplo\EcommerceApplication.class
+com\ejemplo\repositorio\ProductoRepository.class
+com\ejemplo\config\SecurityConfig.class
+com\ejemplo\controlador\CatalogoController.class
+com\ejemplo\controlador\LoginController.class
+com\ejemplo\modelo\Usuario.class
+com\ejemplo\servicio\CustomUserDetailsService.class
+com\ejemplo\servicio\UsuarioService.class
+com\ejemplo\modelo\Rol.class
+com\ejemplo\config\DataLoader.class
+com\ejemplo\controlador\AdminProductoController.class
